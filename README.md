@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 
 <p align="center">
  
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=LikhithaKothrepally&show_icons=true&locale=en" alt="LikhithaKothrepally" /></p>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LikhithaKothrepally&" alt="LikhithaKothrepally" /></p>
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LikhithaKothrepally&show_icons=true&locale=en&layout=compact" alt="LikhithaKothrepally" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=LikhithaKothrepally&show_icons=true&locale=en&theme=radical" alt="LikhithaKothrepally" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LikhithaKothrepally&theme=dark" alt="LikhithaKothrepally" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LikhithaKothrepally&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="LikhithaKothrepally" /></p>
 </p>
 
 
