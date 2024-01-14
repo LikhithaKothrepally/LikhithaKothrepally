@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 <link href="https://fonts.googleapis.com/css2?family=Acme&family=Balsamiq+Sans&display=swap" rel="stylesheet">
 
 <h1 align="center">Hi there👋🤗, I'm Likhitha Kothrepally</h1>
-<h3 align="center">Passionate Learner | Web development and Data Science enthusiast</h3><br />
+<h3 align="center">Passionate Learner | Data Science enthusiast</h3><br />
 
-🔭 I’m a B.Tech Graduate from **GNITS, Hyderabad**.
-
-🌱 I’m currently focusing on  **DSA**.<br >
+🔭 I’m a Masters Graduate from **University at Buffalo, NY**.
 
 💻 I am a passionate learner and I like exploring new things.<br >
 
