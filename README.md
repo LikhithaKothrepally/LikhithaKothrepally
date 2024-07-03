@@ -19,14 +19,15 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there👋🤗, I'm Likhitha Kothrepally</h1>
 <h3 align="center">Passionate Learner | Data Science enthusiast</h3><br />
-
+<!--
 🔭 I’m a Masters Graduate from **University at Buffalo, NY**.
-
+<!--
 💻 I am a passionate learner and I like exploring new things.<br >
-
+<!--
 👩‍💻 All of my projects are available on my [Github Profile](https://github.com/LikhithaKothrepally?tab=repositories)
+<!--
+👯 I’m looking forward to being familiar with various interesting projects. 
 
-👯 I’m looking forward to being familiar with various interesting projects.
 
 
 <!--<h3 align="left">Connect with me:</h3>
@@ -39,10 +40,10 @@ Here are some ideas to get you started:
 <a href="https://auth.geeksforgeeks.org/user/keerthanapravallika/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="keerthanapravallika/profile" height="30" width="40" /></a>
 ..
 </p> -->
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>  </p>
-
+-->
 <!-- <h2 >GitHub Stats</h2>
 
 <p align="center">
