@@ -84,7 +84,7 @@ I’m working on projects that build my foundational knowledge and explore advan
 
 ### 📊 Data Visualization
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C94C?logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau">
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/QuickSight-FF9900?logo=amazon-aws&logoColor=black" alt="QuickSight">
