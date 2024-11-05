@@ -22,7 +22,7 @@ I’m working on projects that build my foundational knowledge and explore advan
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Java-D72B1B?logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML">
@@ -34,7 +34,6 @@ I’m working on projects that build my foundational knowledge and explore advan
 ### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" alt="Oracle">
