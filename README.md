@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<link rel="preconnect" href="https://fonts.gstatic.com">
+<!-- <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Acme&family=Balsamiq+Sans&display=swap" rel="stylesheet">
 
 <h1 align="center">Hi there👋🤗, I'm Likhitha Kothrepally</h1>
@@ -53,6 +52,23 @@ Here are some ideas to get you started:
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LikhithaKothrepally&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="LikhithaKothrepally" /></p>
 </p> -->
 
+### Hi there! 👋
+
+Welcome to my GitHub profile! I'm passionate about data science, machine learning, and generative AI, and I’m constantly expanding my skills and working on exciting projects.
+
+### 🧑‍💻 About Me
+- 🔍 Exploring the world of **data science**, learning to derive insights from data and make data-driven decisions.
+- 🤖 Diving into **machine learning** and building predictive models to solve real-world problems.
+- 🎨 Experimenting with **generative AI**, fascinated by creative applications in AI, such as text generation, image synthesis, and more!
+
+### 🌱 Currently Learning
+- Data manipulation and visualization
+- Statistical modeling and hypothesis testing
+- Machine learning algorithms and model evaluation
+- Generative AI models like transformers and GANs
+
+### 🚀 Projects and Goals
+I’m working on projects that build my foundational knowledge and explore advanced AI topics. Feel free to check out my repositories to see what I’m working on!
 
 
 
