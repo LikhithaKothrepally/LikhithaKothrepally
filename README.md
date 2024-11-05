@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 I’m working on projects that build my foundational knowledge and explore advanced AI topics. Feel free to check out my repositories to see what I’m working on!
 
 
-### Technical Skills
+### 💡 Technical Skills
 ### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
@@ -51,20 +51,26 @@ I’m working on projects that build my foundational knowledge and explore advan
 
 ### 🧠 Machine Learning / Generative AI
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/HuggingFace-F8C52C?logo=hugging-face&logoColor=black" alt="HuggingFace">
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+<img src="https://img.shields.io/badge/Matplotlib-003b57?logo=matplotlib&logoColor=white" alt="Matplotlib">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F20?logo=tensorflow&logoColor=white" alt="TensorFlow">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
+<img src="https://img.shields.io/badge/NLP-4B8BBE?logo=language&logoColor=white" alt="NLP">
+<img src="https://img.shields.io/badge/LangChain-3E7C17?logo=language&logoColor=white" alt="LangChain">
+<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI">
+<img src="https://img.shields.io/badge/Pinecone-00C8E6?logo=pinecone&logoColor=white" alt="Pinecone">
+<img src="https://img.shields.io/badge/HuggingFace-F8C52C?logo=hugging-face&logoColor=black" alt="HuggingFace">
+<img src="https://img.shields.io/badge/LlamaIndex-FF6347?logo=language&logoColor=white" alt="LlamaIndex">
 </p>
 
 ### 🌐 Frameworks and Tools
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Beautiful_Soup-009639?logo=beautiful-soup&logoColor=white" alt="Beautiful Soup">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
 </p>
 
 ### ☁️ DevOps
@@ -75,7 +81,6 @@ I’m working on projects that build my foundational knowledge and explore advan
   <img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" alt="Terraform">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
 </p>
 
 ### 📊 Data Visualization
